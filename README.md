@@ -28,6 +28,17 @@ GIF created with convertio.co
 
 ## App Brainstorming (Step 4)
 
+Instagram:
+1. Hide the chat
+2. Delete messages
+
+Facebook:
+1. Virtual meeting  option
+2. Separate app for messages
+
+Telegram:
+1. Channels
+2. Security
 
 ## Notes
 
